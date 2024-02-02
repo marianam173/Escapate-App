@@ -1,0 +1,21 @@
+{"trips": [{
+    "initialBudget": 20000,
+    "transportationBookingCode": "123 code trip 1",
+    "startMonth": 2,
+    "startDay": 1,
+    "destination": "Paris",
+    "startYear": 2020,
+    "bookingNumberAccommodation": "123booking number",
+    "completed": true,
+    "endYear": 2020,
+    "packingList": ["item 1"],
+    "balance": 20000,
+    "totalAmountSpent": 0,
+    "endDay": 1,
+    "name": "new trip 1",
+    "accommodation": "hotel",
+    "restaurants": ["restaurant 1"],
+    "attractions": ["activity 1"],
+    "endMonth": 4,
+    "methodOfArrival": "train"
+}]}
